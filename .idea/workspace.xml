@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d592352c-8171-4fbd-9f67-483016ec24bd" name="Changes" comment="coding practices" />
+    <list default="true" id="d592352c-8171-4fbd-9f67-483016ec24bd" name="Changes" comment="coding practices">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,9 +49,35 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjemploWhile">
+  <component name="RunManager" selected="Application.EjemploSwitch">
+    <configuration name="EjemploDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasDeControl.EjemploDoWhile" />
+      <module name="vellmond-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstructurasDeControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstructurasDeControl.EjemploIf" />
+      <module name="vellmond-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstructurasDeControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasDeControl.EjemploSwitch" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
@@ -74,13 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Identificadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Identificadores" />
-      <module name="vellmond-practices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operadores" />
       <module name="vellmond-practices" />
@@ -88,20 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposDeDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeDatos" />
-      <module name="vellmond-practices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploSwitch" />
+        <item itemvalue="Application.EjemploDoWhile" />
         <item itemvalue="Application.EjemploWhile" />
         <item itemvalue="Application.EjemploIf" />
         <item itemvalue="Application.Operadores" />
-        <item itemvalue="Application.TiposDeDatos" />
-        <item itemvalue="Application.Identificadores" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +136,7 @@
       <workItem from="1666816213895" duration="679000" />
       <workItem from="1667321182741" duration="3108000" />
       <workItem from="1667501111391" duration="2880000" />
-      <workItem from="1668529068118" duration="4866000" />
+      <workItem from="1668529068118" duration="6119000" />
     </task>
     <task id="LOCAL-00001" summary="coding practices">
       <created>1668534322299</created>
