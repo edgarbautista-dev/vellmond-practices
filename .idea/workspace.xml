@@ -18,6 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -116,7 +122,7 @@
       <workItem from="1666816213895" duration="679000" />
       <workItem from="1667321182741" duration="3108000" />
       <workItem from="1667501111391" duration="2880000" />
-      <workItem from="1668529068118" duration="4545000" />
+      <workItem from="1668529068118" duration="4866000" />
     </task>
     <task id="LOCAL-00001" summary="coding practices">
       <created>1668534322299</created>
