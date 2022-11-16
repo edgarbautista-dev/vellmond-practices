@@ -1,10 +1,12 @@
+package classes;
+
 public class Persona {
     //Atributos
     String nombre;
     char sexo;
     int edad;
     Persona(){
-
+        System.out.println("Se ha creado una persona");
     }
     Persona(String nombre, char sexo, int edad) {
         this.nombre = nombre;
