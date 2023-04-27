@@ -8,10 +8,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d592352c-8171-4fbd-9f67-483016ec24bd" name="Changes" comment="coding practices">
-      <change afterPath="$PROJECT_DIR$/src/classes/ProgramacionDinamica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamiento/PruebaAbstraccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/NombrePersonaComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/PruebaComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/PruebaComparatorLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/custom/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/custom/PruebaCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/hilos/HiloContador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/hilos/PruebaHiloContador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores/EjemploPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optional/PruebaOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Cuadro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/PruebaFiguras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/MaximoYMinimos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/PrimitiveStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/PruebaStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/RemoverDuplicados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45967b1a6dd5f04d0d0fe03b996feccd1a4ec750" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/palindromo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/palindromo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/EjemploArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/EjemploArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devs4j.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vellmond.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +55,22 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f3448830-a7ed-446e-a141-51b98670589f" />
+        <option name="url" value="https://github.com/edgarbautista-dev/vellmond-practices.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,30 +80,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/edgar/workspace/CtCI-6th-Edition/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/edgar/workspace/vellmond-practices",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.isUnique">
-    <configuration name="isUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.crakingCode.isUnique" />
+}]]></component>
+  <component name="RunManager" selected="Application.RemoverDuplicados">
+    <configuration name="MaximoYMinimos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.MaximoYMinimos" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ejercicios.crakingCode.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.palindromo" />
+    <configuration name="PrimitiveStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.PrimitiveStreams" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ejercicios.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="permutationB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.crakingCode.permutationB" />
+    <configuration name="PruebaOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optional.PruebaOptional" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ejercicios.crakingCode.*" />
+          <option name="PATTERN" value="optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prueba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.prueba" />
+    <configuration name="PruebaStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.PruebaStreams" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ejercicios.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="urlify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.crakingCode.urlify" />
+    <configuration name="RemoverDuplicados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.RemoverDuplicados" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ejercicios.crakingCode.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.isUnique" />
-        <item itemvalue="Application.prueba" />
-        <item itemvalue="Application.palindromo" />
-        <item itemvalue="Application.urlify" />
-        <item itemvalue="Application.permutationB" />
+        <item itemvalue="Application.RemoverDuplicados" />
+        <item itemvalue="Application.MaximoYMinimos" />
+        <item itemvalue="Application.PrimitiveStreams" />
+        <item itemvalue="Application.PruebaStreams" />
+        <item itemvalue="Application.PruebaOptional" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +217,13 @@
       <workItem from="1675885296893" duration="1794000" />
       <workItem from="1678113465026" duration="728000" />
       <workItem from="1678473332781" duration="610000" />
+      <workItem from="1679414759688" duration="32000" />
+      <workItem from="1679414806391" duration="1020000" />
+      <workItem from="1681313485785" duration="610000" />
+      <workItem from="1681747215753" duration="1412000" />
+      <workItem from="1681941902819" duration="611000" />
+      <workItem from="1682012416848" duration="618000" />
+      <workItem from="1682613645514" duration="11117000" />
     </task>
     <task id="LOCAL-00001" summary="coding practices">
       <created>1668534322299</created>

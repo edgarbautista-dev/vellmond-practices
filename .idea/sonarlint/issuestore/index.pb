@@ -21,20 +21,12 @@ _
 /src/innerclasses/EjemploInterfacesAnonimas.java,9\1\91e7d510e7c447d7138c4da96fa784ccfda4ae62
 O
 src/ejercicios/palindromo2.java,f\e\fe23f694a4e4fc989790a24a93ebd0494a206b5b
-`
-0src/ejercicios/AlgoritmoBusquedaProfundidad.java,4\5\45967b1a6dd5f04d0d0fe03b996feccd1a4ec750
 Z
 *src/ejercicios/QuickSortAleatoriPivot.java,f\d\fd35f25e997a8b2d3d14d37fb34ae7cb68b44044
-H
-src/EjemploArreglos.java,0\3\034f6490b72dd1e03f94c7ed862ef6fa3e010300
 B
 src/HolaMundo.java,5\e\5e1cae5f475a80480cb00606e9b890771daa4840
-?
-src/devs4j.java,d\7\d7f25b015298071f30cae0979ac113205f0187d3
 ]
 -src/ejercicios/QuickSortTiempoAsintotico.java,9\6\96404448d0c388e160b70909c3471842ff770a66
-F
-vellmond-practices.iml,1\c\1c9843436a83d2a2237bce48cee9906580273c20
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -43,15 +35,7 @@ Z
 \
 ,src/EstructurasDeControl/EjemploDoWhile.java,1\3\13579b5fda5c98f4c8e99a015f289de946b10a07
 [
-+src/polimorfismo/figuras/PruebaFiguras.java,2\3\2399ecf1d8838018ef0f64e64b8a2f82e104efec
-[
 +src/EstructurasDeControl/EjemploSwitch.java,4\0\403621b76e03f3f6912cd5710942dcdd80ab8d10
-Z
-*src/encapsulamiento/PruebaAbstraccion.java,4\d\4d4a4dfa8bb2104dde479bf9624cbe7fce629937
-T
-$src/polimorfismo/figuras/Figura.java,d\8\d83cffc005d05d6855c3711326bbf44fbe504f59
-U
-%src/polimorfismo/figuras/Circulo.java,e\3\e3f4a71d1d95b1d668fc2f6951eac0f200d25635
 I
 src/ejercicios/texto.java,3\9\39c8c979e41a485f1ca5b680527b56105129a0a4
 K
@@ -60,9 +44,3 @@ N
 src/ejercicios/countwords.java,7\6\7605983cf59d4d87a21d5eb17d8b98ad9721c9f0
 R
 "src/ejercicios/GrafoPonderado.java,5\1\51a52e7ac3c305e659e302f834bc761b1edc0ef7
-T
-$src/polimorfismo/figuras/Cuadro.java,1\6\16bd61e4c1867aac9a18c349150d98e9d3f95536
-S
-#src/collections/EjemploHashMap.java,2\c\2c36e991d82fa0e8cede6feecee83ff7f5c198b1
-U
-%src/collections/EjemploArrayList.java,7\0\70a4fc83be074e3c935c0c929071e52b7df7b8fb

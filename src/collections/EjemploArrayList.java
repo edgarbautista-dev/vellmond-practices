@@ -6,6 +6,11 @@ public class EjemploArrayList {
     public static void main(String[] args) {
         ArrayList<String> arrayList = new ArrayList();
         arrayList.add("Edgar");
-        System.out.println(arrayList);
+        arrayList.add("Jesus");
+        arrayList.add("Bautista");
+        for(String nombre: arrayList){
+            System.out.println(nombre);
+        }
+
     }
 }
