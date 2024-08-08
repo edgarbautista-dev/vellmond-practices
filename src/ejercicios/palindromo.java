@@ -3,6 +3,7 @@ package ejercicios;
 import java.util.Scanner;
 
 public class palindromo {
+
     public static void main(String[] args) {
         System.out.println("teclea una letra");
         Scanner sc = new Scanner(System.in);

@@ -8,31 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d592352c-8171-4fbd-9f67-483016ec24bd" name="Changes" comment="coding practices">
-      <change afterPath="$PROJECT_DIR$/src/encapsulamiento/PruebaAbstraccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/NombrePersonaComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/PruebaComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparator/PruebaComparatorLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/custom/Calculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/custom/PruebaCalculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/hilos/HiloContador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/hilos/PruebaHiloContador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modificadores/EjemploPrivate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/optional/PruebaOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Cuadro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/PruebaFiguras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/figuras/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/MaximoYMinimos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/PrimitiveStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/PruebaStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/RemoverDuplicados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45967b1a6dd5f04d0d0fe03b996feccd1a4ec750" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd35f25e997a8b2d3d14d37fb34ae7cb68b44044" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe23f694a4e4fc989790a24a93ebd0494a206b5b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe23f694a4e4fc989790a24a93ebd0494a206b5b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/EjemploArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/EjemploArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/devs4j.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vellmond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/binarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/palindromo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/palindromo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vellmond-practices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vellmond-practices.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +57,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2Fzy0lzHLV7Rzj8s9Gicti7VHCh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -82,22 +69,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MaximoYMinimos.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.TreeSearch.executor": "Run",
+    "Application.VellmondCounter.executor": "Run",
+    "Application.binarySearch.executor": "Run",
+    "Application.palindromo.executor": "Run",
+    "Application.playWithLists.executor": "Run",
+    "Application.printDraw.executor": "Run",
+    "Application.reverseWord.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/edgar/workspace/vellmond-practices",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/edgar/workspace/simple-rest-example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
+    "two.files.diff.last.used.file": "C:/Users/edgar/workspace/vellmond-practices/src/ejercicios/encora/EndSolution.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoverDuplicados">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ejercicios.crakingCode.exception" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="MaximoYMinimos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streams.MaximoYMinimos" />
       <module name="vellmond-practices" />
@@ -111,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.PrimitiveStreams" />
+    <configuration name="TreeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cognizant.nodes.TreeSearch" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="cognizant.nodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PruebaOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="optional.PruebaOptional" />
+    <configuration name="playWithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hcl.playWithLists" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="optional.*" />
+          <option name="PATTERN" value="hcl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PruebaStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.PruebaStreams" />
+    <configuration name="printDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cognizant.draws.printDraw" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="cognizant.draws.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoverDuplicados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.RemoverDuplicados" />
+    <configuration name="reverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hcl.reverseWord" />
       <module name="vellmond-practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="hcl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,15 +166,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.playWithLists" />
+      <item itemvalue="Application.reverseWord" />
+      <item itemvalue="Application.MaximoYMinimos" />
+      <item itemvalue="Application.TreeSearch" />
+      <item itemvalue="Application.printDraw" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoverDuplicados" />
+        <item itemvalue="Application.reverseWord" />
+        <item itemvalue="Application.playWithLists" />
         <item itemvalue="Application.MaximoYMinimos" />
-        <item itemvalue="Application.PrimitiveStreams" />
-        <item itemvalue="Application.PruebaStreams" />
-        <item itemvalue="Application.PruebaOptional" />
+        <item itemvalue="Application.printDraw" />
+        <item itemvalue="Application.TreeSearch" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -223,7 +240,56 @@
       <workItem from="1681747215753" duration="1412000" />
       <workItem from="1681941902819" duration="611000" />
       <workItem from="1682012416848" duration="618000" />
-      <workItem from="1682613645514" duration="11117000" />
+      <workItem from="1682613645514" duration="11150000" />
+      <workItem from="1683123253721" duration="647000" />
+      <workItem from="1683656841238" duration="1447000" />
+      <workItem from="1683673746100" duration="727000" />
+      <workItem from="1683763285720" duration="1645000" />
+      <workItem from="1683770896769" duration="356000" />
+      <workItem from="1684340305726" duration="11811000" />
+      <workItem from="1684423294734" duration="597000" />
+      <workItem from="1684500626909" duration="615000" />
+      <workItem from="1684521008483" duration="598000" />
+      <workItem from="1684616663558" duration="1770000" />
+      <workItem from="1684714699626" duration="2513000" />
+      <workItem from="1684782364371" duration="14368000" />
+      <workItem from="1684859188921" duration="5352000" />
+      <workItem from="1684964719117" duration="1090000" />
+      <workItem from="1685028177668" duration="3000" />
+      <workItem from="1685028190163" duration="3529000" />
+      <workItem from="1685392430004" duration="5498000" />
+      <workItem from="1685566348499" duration="725000" />
+      <workItem from="1685968621399" duration="4093000" />
+      <workItem from="1686071435946" duration="1644000" />
+      <workItem from="1686188497476" duration="764000" />
+      <workItem from="1686241940561" duration="749000" />
+      <workItem from="1686242950331" duration="305000" />
+      <workItem from="1686680935980" duration="1156000" />
+      <workItem from="1687818129633" duration="599000" />
+      <workItem from="1697839798155" duration="771000" />
+      <workItem from="1697840711865" duration="898000" />
+      <workItem from="1697911417369" duration="2770000" />
+      <workItem from="1699061655070" duration="2029000" />
+      <workItem from="1699136565647" duration="929000" />
+      <workItem from="1699724768090" duration="1069000" />
+      <workItem from="1701483601637" duration="9469000" />
+      <workItem from="1702102891781" duration="982000" />
+      <workItem from="1702593695201" duration="4429000" />
+      <workItem from="1707158636688" duration="1621000" />
+      <workItem from="1707332032203" duration="592000" />
+      <workItem from="1708879570949" duration="193000" />
+      <workItem from="1721322119835" duration="7429000" />
+      <workItem from="1721418723239" duration="1427000" />
+      <workItem from="1721695632724" duration="364000" />
+      <workItem from="1721758127650" duration="601000" />
+      <workItem from="1722350973179" duration="2171000" />
+      <workItem from="1722442917212" duration="1213000" />
+      <workItem from="1722455705335" duration="599000" />
+      <workItem from="1722863308527" duration="598000" />
+      <workItem from="1722883157995" duration="7020000" />
+      <workItem from="1723062866316" duration="631000" />
+      <workItem from="1723131751643" duration="1553000" />
+      <workItem from="1723139939231" duration="7472000" />
     </task>
     <task id="LOCAL-00001" summary="coding practices">
       <created>1668534322299</created>
@@ -232,13 +298,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668534322299</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="coding practices">
+      <created>1682628185988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682628185988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -260,21 +348,6 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="coding practices" />
@@ -288,9 +361,104 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ejercicios/palindromo.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/crakingCode/Solution.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/crakingCode/Solution.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/crakingCode/Solution.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/encora/Solution.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classes/Palindrome.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classes/Palindrome.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classes/Palindrome.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classes/Palindrome.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios/test/Solution.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cognizant/draws/drawTriangle.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cognizant/draws/drawTriangle.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

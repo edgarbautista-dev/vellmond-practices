@@ -5,6 +5,22 @@ public class Palindrome {
     public static boolean isPalindrome(String word){
         if(word.length()<=1){
             return true;
+        } else if (word.charAt(0)==word.charAt(word.length()-1)) {
+            return isPalindrome(word.substring(1,word.length()-1));
+        }else {
+            return false;
+        }
+    }
+    public static void main(String[] args){
+        String[] words={"peep","loco","pedro","o","oo","po"};
+        for(String word:words){
+            System.out.println("The word "+word+" is "+isPalindrome(word)+" a Palindrome");
+        }
+    }
+
+   /* public static boolean isPalindrome(String word){
+        if(word.length()<=1){
+            return true;
         }else if(word.charAt(0)==word.charAt(word.length()-1)){
             return isPalindrome(word.substring(1,word.length()-1));
         }else {
@@ -18,5 +34,5 @@ public class Palindrome {
             System.out.println(word+" is palindrome?"+isPalindrome(word));
         }
 
-    }
+    }*/
 }
