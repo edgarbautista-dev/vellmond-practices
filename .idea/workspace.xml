@@ -8,14 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d592352c-8171-4fbd-9f67-483016ec24bd" name="Changes" comment="coding practices">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd35f25e997a8b2d3d14d37fb34ae7cb68b44044" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe23f694a4e4fc989790a24a93ebd0494a206b5b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe23f694a4e4fc989790a24a93ebd0494a206b5b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/binarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/palindromo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/palindromo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vellmond-practices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vellmond-practices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hcl/playWithLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hcl/playWithLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +282,7 @@
       <workItem from="1722883157995" duration="7020000" />
       <workItem from="1723062866316" duration="631000" />
       <workItem from="1723131751643" duration="1553000" />
-      <workItem from="1723139939231" duration="7472000" />
+      <workItem from="1723139939231" duration="7588000" />
     </task>
     <task id="LOCAL-00001" summary="coding practices">
       <created>1668534322299</created>
